@@ -1,1 +1,1 @@
-print("ori" * 1000)
+print("ori" * 50)
