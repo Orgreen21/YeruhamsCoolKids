@@ -1,1 +1,1 @@
-print("hi")
+print("ori" * 50)
